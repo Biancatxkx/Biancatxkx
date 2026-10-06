@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem vindo(a)!
 
-🎓 Estudante do 2º ano do Ensino Médio no **SESI** e técnico no **SENAI**. 
+🎓 Sou estudante do 2º ano do Ensino Médio no **SESI** e técnico no **SENAI**. 
 Apoiado na resolução de problemas reais com tecnologia e me preparando intensamente para os desafios do mercado de desenvolvimento web.
 
 ---
